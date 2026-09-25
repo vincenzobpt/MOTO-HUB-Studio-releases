@@ -151,5 +151,5 @@ page. The releases carry notes only, no packages.
 
 - **[MOTO-HUB](https://motohub.techub.eu)**: the website, with the phone app and the dashboard gallery.
 - **[MOTO-HUB SOLO](https://github.com/vincenzobpt/MOTO-HUB-ADV-SOLO-releases)**: the Android app Studio works with.
-- **[MOTO-HUB CORE](https://github.com/vincenzobpt/MOTO-HUB)**: the open-source handlebar-control app.
+- **[MOTO-HUB CORE](https://github.com/vincenzobpt/MOTO-HUB)**: the free, open-source (AGPL-3.0) MOTO-HUB for the motorcycle TFT: pairing with EasyConn / Carbit dashboards, Android Auto, screen mirroring and handlebar buttons, on Android 12 and newer.
 - **[Discord](https://discord.gg/FzhXZtPhC8)**: help, the beta, and the people who ride with MOTO-HUB.
