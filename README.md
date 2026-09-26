@@ -12,6 +12,7 @@
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon-f3f3f4?logo=apple&logoColor=white&labelColor=1a1b20)](#requirements)
 [![Windows](https://img.shields.io/badge/Windows-x64-f3f3f4?logo=windows&logoColor=white&labelColor=1a1b20)](#requirements)
 [![Discord](https://img.shields.io/badge/Discord-ask%20for%20the%20beta-5865F2?logo=discord&logoColor=white)](https://discord.gg/FzhXZtPhC8)
+[![Website](https://img.shields.io/badge/website-motohub.techub.eu-f3f3f4?labelColor=1a1b20)](https://motohub.techub.eu)
 
 <img src="media/70-window-overview.webp" alt="MOTO-HUB Studio with a dashboard open in the editor" width="900">
 
@@ -150,6 +151,6 @@ page. The releases carry notes only, no packages.
 ## Related
 
 - **[MOTO-HUB](https://motohub.techub.eu)**: the website, with the phone app and the dashboard gallery.
-- **[MOTO-HUB SOLO](https://github.com/vincenzobpt/MOTO-HUB-ADV-SOLO-releases)**: the Android app Studio works with.
+- **[MOTO-HUB ADV-SOLO](https://github.com/vincenzobpt/MOTO-HUB-ADV-SOLO-releases)**: the Android app Studio works with.
 - **[MOTO-HUB CORE](https://github.com/vincenzobpt/MOTO-HUB)**: the free, open-source (AGPL-3.0) MOTO-HUB for the motorcycle TFT: pairing with EasyConn / Carbit dashboards, Android Auto, screen mirroring and handlebar buttons, on Android 12 and newer.
 - **[Discord](https://discord.gg/FzhXZtPhC8)**: help, the beta, and the people who ride with MOTO-HUB.
