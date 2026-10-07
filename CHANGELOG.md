@@ -2,6 +2,25 @@
 
 MOTO-HUB Studio is in private beta: these are notes only, with no packages. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
 
+## 1.13.0
+
+_Released 7 October 2026._
+
+### Render server
+- **Studio draws Flyby films for your phone:** pair the phone once and a film can be drawn on your computer instead, then comes back to the phone ready to save.
+- **One film, every computer at once:** with several computers paired, each one draws a part of the same film at the same time and the phone puts the parts together. A computer that stops hands its part to another.
+- **Faster Real 3D films:** pages stay open between the parts of a film, the work of building the 3D world is shared between them, and a film starts drawing much sooner.
+- **A render server with no screen:** Studio can run on its own on a Linux computer with a graphics card, and shows what it is doing on a page you open from any browser on your network.
+- Map tiles are kept in one shared cache, and a page shows how much disk space it uses.
+
+### Real 3D
+- The new **after the rain** look: a wet road that mirrors the valley, mist and low cloud.
+- Far mountains cast their shadows when the sun is low, and far ground and trees stay steady from one frame to the next.
+
+### Everywhere else
+- Many small fixes across every workspace, a Help workspace with the user manual, and a warning before closing with unsaved changes.
+- The Windows package carries everything it needs to start.
+
 ## 1.12.0
 
 _Released 23 September 2026._
