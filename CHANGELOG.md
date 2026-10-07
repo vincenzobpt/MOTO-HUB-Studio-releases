@@ -2,6 +2,13 @@
 
 MOTO-HUB Studio is in private beta: these are notes only, with no packages. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
 
+## 1.13.1
+
+_Released 7 October 2026._
+
+- Ready for Flyby 0.48: films with the valley mist, low cloud, lush meadows, fences, waterfalls and colour grades draw on your computer as on the phone.
+- When the computer draws with its processor instead of a graphics card, Studio now also names the valley mist, low cloud and lush grass among the heavy parts of the finish.
+
 ## 1.13.0
 
 _Released 7 October 2026._
