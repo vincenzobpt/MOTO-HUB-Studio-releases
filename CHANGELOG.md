@@ -2,6 +2,19 @@
 
 MOTO-HUB Studio is in private beta: these are notes only, with no packages. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
 
+## 1.14.3
+
+_Released 8 October 2026._
+
+### Updates on macOS
+- Updates finish by themselves again on the Mac: Studio closes, the new version takes its place and opens. Coming from 1.14.0, 1.14.1 or 1.14.2 on a Mac, this one update may close Studio without opening it again: open the DMG in `~/Library/Caches/MOTO-HUB Studio/updates/` and drag MOTO-HUB Studio to Applications, once.
+
+### Linux
+- Links open in your browser on Linux too.
+
+### Flyby
+- The preview is laid out like the film, Copy frame copies the film's own frame, and the Render panel sets the Real 3D finish with the same choices as on the phone.
+
 ## 1.14.2
 
 _Released 8 October 2026._
