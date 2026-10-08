@@ -4,13 +4,14 @@
 
 # MOTO-HUB Studio
 
-**The desktop companion of MOTO-HUB, for macOS and Windows.**<br>
+**The desktop companion of MOTO-HUB, for macOS, Windows and Linux.**<br>
 **Design dashboards for your motorcycle's TFT, study every ride you have recorded, and test it all on a simulated bike before you ride.**
 
 [![Latest version](https://img.shields.io/github/v/release/vincenzobpt/MOTO-HUB-Studio-releases?label=latest%20version&color=c2ff2d&labelColor=1a1b20)](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/latest)
 [![Private beta](https://img.shields.io/badge/status-private%20beta-ffb020?labelColor=1a1b20)](#how-to-get-it)
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon-f3f3f4?logo=apple&logoColor=white&labelColor=1a1b20)](#requirements)
 [![Windows](https://img.shields.io/badge/Windows-x64-f3f3f4?logo=windows&logoColor=white&labelColor=1a1b20)](#requirements)
+[![Linux](https://img.shields.io/badge/Linux-x64-f3f3f4?logo=linux&logoColor=white&labelColor=1a1b20)](#requirements)
 [![Discord](https://img.shields.io/badge/Discord-ask%20for%20the%20beta-5865F2?logo=discord&logoColor=white)](https://discord.gg/FzhXZtPhC8)
 [![Website](https://img.shields.io/badge/website-motohub.techub.eu-f3f3f4?labelColor=1a1b20)](https://motohub.techub.eu)
 
@@ -140,6 +141,7 @@ receive it there, and from then on Studio keeps itself up to date.
 |---|---|
 | **macOS** | Apple Silicon (M1 or later) |
 | **Windows** | x64, portable zip with its own Java, nothing to install (tested less than macOS) |
+| **Linux** | x64, a folder with its own Java to unpack anywhere; Chrome or Chromium for the 3D previews; it does not update itself yet |
 | **Phone** | [MOTO-HUB](https://motohub.techub.eu) on Android, with **Settings ▸ LABS ▸ Dashboard editor link** turned on, on the same Wi-Fi |
 | **Optional** | an ELM327 Bluetooth adapter for engine data; `adb` and `scrcpy` for the Android workspace |
 

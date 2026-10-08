@@ -2,6 +2,27 @@
 
 MOTO-HUB Studio is in private beta: these are notes only, with no packages. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
 
+## 1.14.0
+
+_Released 8 October 2026._
+
+### Flyby
+- **Direct a flyby on your computer:** a new Flyby workspace (`Cmd+4`) keeps the flybys your phone sends with **Open in Studio**, and opens them in the same DIRECT editor as on the phone: the 3D scene in a Chrome window beside Studio, the film's captions, your song and the soundtrack, the music library and the AI director with the AI set up in Studio's settings.
+- **Render it there and send it to the phone:** the film is drawn on your computer and **Send to phone** puts it in the phone's Movies/MOTO-HUB.
+- A flyby that comes again after you changed it in Studio asks whether to replace your copy or keep both.
+- The Simulator, Render server, Android and Help workspaces move down one place, with their shortcuts.
+
+### Linux
+- **Studio for Linux:** Studio now opens with its window on Linux x64 as well, with its own icon in the desktop's menu. On Linux it does not update itself: unpack the new version in place of the old folder.
+
+### Render server
+- Films drawn on several computers start sooner: one computer keeps the film's map tiles for the others and fetches ahead the ones the film will need.
+
+### Everywhere else
+- Studio speaks of this Mac, this PC or this computer, and of Finder, Explorer or the file manager, as your system does; the command palette shows Ctrl outside a Mac.
+- Trips charts show their axis labels on macOS again.
+- On Windows, files on any drive open correctly.
+
 ## 1.13.1
 
 _Released 7 October 2026._
