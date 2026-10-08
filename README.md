@@ -122,7 +122,7 @@ pairing QR code. Pick the motorcycle model and the simulator takes its screen si
 
 ### ❔ Help
 
-The version you are running, updates in one click (Studio updates itself on macOS and Windows), a
+The version you are running, updates in one click (Studio updates itself on macOS, Windows and Linux), a
 diagnostics file to attach when something goes wrong, and a complete user manual with search.
 
 ---
@@ -141,7 +141,7 @@ receive it there, and from then on Studio keeps itself up to date.
 |---|---|
 | **macOS** | Apple Silicon (M1 or later) |
 | **Windows** | x64, portable zip with its own Java, nothing to install (tested less than macOS) |
-| **Linux** | x64, a folder with its own Java to unpack anywhere; Chrome or Chromium for the 3D previews; it does not update itself yet |
+| **Linux** | x64, a folder with its own Java to unpack anywhere; Chrome or Chromium for the 3D previews; updates itself from 1.14.1 |
 | **Phone** | [MOTO-HUB](https://motohub.techub.eu) on Android, with **Settings ▸ LABS ▸ Dashboard editor link** turned on, on the same Wi-Fi |
 | **Optional** | an ELM327 Bluetooth adapter for engine data; `adb` and `scrcpy` for the Android workspace |
 

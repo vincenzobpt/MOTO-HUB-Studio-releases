@@ -2,6 +2,13 @@
 
 MOTO-HUB Studio is in private beta: these are notes only, with no packages. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
 
+## 1.14.1
+
+_Released 8 October 2026._
+
+### Linux
+- Studio updates itself on Linux too, like on macOS and Windows; if the new version does not start, the previous one is put back. Coming from 1.14.0 on Linux, install it by hand once.
+
 ## 1.14.0
 
 _Released 8 October 2026._
