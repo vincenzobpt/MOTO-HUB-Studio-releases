@@ -2,6 +2,13 @@
 
 MOTO-HUB Studio is in private beta: these are notes only, with no packages. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
 
+## 1.14.2
+
+_Released 8 October 2026._
+
+### AI
+- The AI works with the newest models again: when a model refuses the temperature setting, Studio asks once more without it.
+
 ## 1.14.1
 
 _Released 8 October 2026._
