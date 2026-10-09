@@ -2,6 +2,16 @@
 
 MOTO-HUB Studio is in private beta: these are notes only, with no packages. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
 
+## 1.14.4
+
+_Released 9 October 2026._
+
+### Simulator
+- The simulator's Stop button works on Linux again.
+
+### Flyby
+- When a film is drawn by several computers, the finished film also reaches the ones that keep copies.
+
 ## 1.14.3
 
 _Released 8 October 2026._
