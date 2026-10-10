@@ -2,6 +2,18 @@
 
 MOTO-HUB Studio is in private beta: these are notes only, with no packages. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
 
+## 1.15.0
+
+_Released 10 October 2026._
+
+### ✨ New
+
+- **Your saved places in Studio:** a new Places workspace (`Cmd+4`) shows your lists and places on a map, and lets you edit and organise them on the big screen.
+- **Synced with the phone, both ways:** one click on **Sync with the phone** brings over what you saved on the bike and sends back what you changed on the computer. Needs MOTO-HUB ADV-SOLO 0.1.39 or later.
+- **Import your places from Google:** point Studio at a Google Takeout export and your starred places and saved lists come in, whatever language your Google account uses. Places that Google gives without a position can be found with your own Google key (Studio shows the cost first), or placed by hand on the map one at a time.
+- **You decide on conflicts:** when the same place was changed on the phone and on the computer, Studio shows both side by side and lets you pick. Anything you leave open comes back at the next sync.
+- The Flyby, Simulator, Render server, Android and Help workspaces move down one place, with their shortcuts.
+
 ## 1.14.4
 
 _Released 9 October 2026._
