@@ -2,6 +2,26 @@
 
 MOTO-HUB Studio is in private beta: these are notes only, with no packages. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
 
+## 1.16.0
+
+_Released 12 October 2026._
+
+### ✨ New
+
+- **Settings workspace:** one place for your AI assistant, Google Maps, Immich and Esri keys. A key saved here works in Places and the AI assistant at once. (Settings)
+- **Places map:** switch between Map, 3D and Real 3D, and pick one of four basemaps. Layers show places, rides, photos and grouping. Address lookup and insights are included. (Places)
+- **Real 3D window:** fly a 3D view around the selected place, in its own window. Drag to move, right-drag or Shift-drag to turn and tilt, scroll to zoom. (Places)
+- **Stay on top:** keep Places and Flyby above your other windows. (Places, Flyby)
+- **Copy buttons:** install commands have a Copy command button. Code blocks and whole replies in the AI chat have Copy buttons too. (Android, Simulator, Render server, Flyby, AI assistant)
+- **Flyby from the phone:** a flyby opened from the phone keeps the Esri key saved on the phone, or uses Studio's key if the phone has none. Needs MOTO-HUB ADV-SOLO 0.1.41 or later. (Flyby)
+
+### 🛠️ Fixes
+
+- **Satellite tiles:** no longer stay broken after an Esri error. (Places)
+
+Settings is now `Cmd+9`, and Help moves to `Cmd+0`.
+Studio offers the update the next time you open it, or choose Help ▸ Check for updates.
+
 ## 1.15.0
 
 _Released 10 October 2026._
