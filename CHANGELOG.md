@@ -2,6 +2,29 @@
 
 MOTO-HUB Studio is in private beta: these are notes only, with no packages. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
 
+## 1.17.0
+
+_Released 15 October 2026._
+
+### ✨ New
+
+- **Spread a film over several computers:** pair other Studios on your network, and a Flyby film is drawn by every computer that is ready, then put together on this one. The fastest computer starts first. (Render server, Flyby)
+- **Pair another computer:** a new Computers panel lists the Studios found on your network, with their state. You can also use the command palette: "Render server: Pair another computer". (Render server)
+- **Resume a stopped film:** if Studio closes or a spread film stops half-way, the Render panel offers Resume or Discard. The work already done is kept. (Flyby)
+- **Ridden line only:** a new choice under Scene ▸ Map ▸ Track hides the part of the route still ahead of you, in the editor and in renders. Needs MOTO-HUB ADV-SOLO 0.1.42 or later. (Flyby)
+- **Trips filters:** narrow the list by sensors, engine, notes, bike, country, year and month, distance and moving time. (Trips)
+- **Claude as your AI assistant:** use "Claude signed in on this computer", with no API key. (Settings)
+
+### 🛠️ Fixes
+
+- **Smoother camera:** the camera height no longer shakes on fast stretches or Smooth keyframes. (Flyby)
+- **AI composer keeps your genre:** if you already picked music, the AI composes in that genre. (Flyby)
+- **Music stops with the flyby:** closing a flyby no longer leaves the old soundtrack playing. (Flyby)
+- **Sharper Real 3D terrain:** some Esri terrain tiles no longer fall back to coarser terrain. (Places, Flyby)
+- **Clearer film errors on Mac:** if a film fails because Chrome is not allowed to run in the background, Studio says so and tells you where to allow it. (Flyby)
+
+Studio offers the update the next time you open it, or choose Help ▸ Check for updates.
+
 ## 1.16.0
 
 _Released 12 October 2026._
