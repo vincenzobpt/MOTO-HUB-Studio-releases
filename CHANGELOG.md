@@ -2,6 +2,22 @@
 
 MOTO-HUB Studio is in private beta: these are notes only, with no packages. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
 
+## 1.18.0
+
+_Released 20 October 2026._
+
+### ✨ New
+
+- **Touch dashboards:** design dashboards you can tap, for head units and the phone. Add buttons and actions, split a dashboard into pages and panels, and drag the line between the map and the panels. Studio shows how each touch element works while you edit. Needs MOTO-HUB ADV-SOLO 0.1.46 or later. (Editor)
+- **Closable panels:** a panel next to the map can close to one side, leaving only a small handle to open it again. (Editor)
+- **CFMOTO CL-C450:** the simulator and the editor now show the CL-C450's round screen, with the parts the bike covers marked, so you can see what the rider really sees. (Simulator, Editor)
+
+### 🛠️ Fixes
+
+- **Long Flyby films with many photos:** photos load a few at a time while the film needs them, so Studio uses less memory. (Flyby)
+
+Studio offers the update the next time you open it, or choose Help ▸ Check for updates.
+
 ## 1.17.0
 
 _Released 15 October 2026._
