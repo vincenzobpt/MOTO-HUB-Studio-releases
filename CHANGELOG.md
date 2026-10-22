@@ -2,6 +2,16 @@
 
 MOTO-HUB Studio is in private beta: these are notes only, with no packages. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
 
+## 1.18.1
+
+_Released 22 October 2026._
+
+### ✨ New
+
+- **Mouse mode tile:** Studio knows the Mouse mode tile of touch dashboards and shows it in the editor, with no warning. Needs MOTO-HUB ADV-SOLO 0.1.47 or later. (Editor)
+
+Studio offers the update the next time you open it, or choose Help ▸ Check for updates.
+
 ## 1.18.0
 
 _Released 20 October 2026._
