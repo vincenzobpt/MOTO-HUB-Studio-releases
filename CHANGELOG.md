@@ -1,6 +1,21 @@
 # MOTO-HUB Studio — release notes
 
-MOTO-HUB Studio is in private beta: these are notes only, with no packages. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
+MOTO-HUB Studio is in private beta: these are notes only, with no packages. From 2.0.0 each release also carries Studio's modules, which open only inside Studio, with a licence. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
+
+## 2.0.0
+
+_Released 2 November 2026._
+
+### ✨ New
+
+- **Modules:** Studio is now made of modules: Dashboards, Trips, Places, Flyby and Render server, Simulator and Android. Switch each one on or off in Settings ▸ Modules. (Settings)
+- **Your menu, your order:** move the workspaces up or down in Settings ▸ Modules. Cmd+1 to 9 follow the order you choose. (Settings)
+- **Only what you use:** Studio downloads the modules you have switched on. Remove one you do not need, and switch it back on to download it again. Your rides, places and settings stay. (Settings)
+- **Modules in your licence:** a module your licence does not include shows as "Not in your licence". (Settings)
+
+The first time it opens after the update, Studio downloads its modules: keep the internet on.
+
+Studio offers the update the next time you open it, or choose Help ▸ Check for updates.
 
 ## 1.18.1
 
