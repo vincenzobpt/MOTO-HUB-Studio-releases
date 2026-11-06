@@ -2,6 +2,19 @@
 
 MOTO-HUB Studio is in private beta: these are notes only, with no packages. From 2.0.0 each release also carries Studio's modules, which open only inside Studio, with a licence. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
 
+## 2.1.0
+
+_Released 6 November 2026._
+
+### ✨ New
+
+- **World Preview:** a new module. Fly anywhere in the world in the Real 3D view with every option of the Flyby render, and review your reports in World Reports. (World Preview)
+- **Planner:** a new module. Plan rides and trips of many days, add passes and speed cameras along the way, and send the trip to the phone. (Planner)
+
+Both modules are switched off. Switch them on in Settings ▸ Modules; Studio then downloads them the next time it opens.
+
+Studio offers the update the next time you open it, or choose Help ▸ Check for updates.
+
 ## 2.0.0
 
 _Released 2 November 2026._
