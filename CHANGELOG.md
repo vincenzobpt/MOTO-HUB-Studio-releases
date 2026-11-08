@@ -1,6 +1,25 @@
 # MOTO-HUB Studio — release notes
 
-MOTO-HUB Studio is in private beta: these are notes only, with no packages. From 2.0.0 each release also carries Studio's modules, which open only inside Studio, with a licence. Ask for the beta on [Discord](https://discord.gg/FzhXZtPhC8).
+MOTO-HUB Studio is free to download from the [Releases](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases) page, with a free licence key from the [MOTO-HUB website](https://motohub.techub.eu/studio/licence/). Each release also carries Studio's modules, which Studio downloads by itself.
+
+## 2.1.1
+
+_Released 8 November 2026._
+
+### ✨ New
+
+- **Free for everyone:** Studio is now a public download on GitHub. It needs a free licence key: press **Get a free licence** in the activation window and the MOTO-HUB website makes one for your computer.
+- **Phone, rebuilt:** sections down the side with coloured panels, storage as a ring, and the backup's progress and result. (Phone)
+- **Places:** the map fills the workspace, with the lists and tools floating over it. (Places)
+- **3D pages for a film:** choose between the 3D pages the film was made with and the latest ones. (Flyby)
+- **As you left it:** each workspace keeps its scroll position and open sections, and panels remember your choices the next time Studio opens.
+
+### 🔧 Fixed
+
+- **Putting a backup back on the phone** works now, also for large backups. Needs the latest MOTO-HUB on the phone. (Phone)
+- **Filters** no longer stay stuck on a year, motorcycle or country you no longer have. (Trips, Places)
+
+Studio offers the update the next time you open it, or choose Help ▸ Check for updates.
 
 ## 2.1.0
 

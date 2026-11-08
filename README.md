@@ -8,11 +8,11 @@
 **Design dashboards for your motorcycle's TFT, study every ride you have recorded, and test it all on a simulated bike before you ride.**
 
 [![Latest version](https://img.shields.io/github/v/release/vincenzobpt/MOTO-HUB-Studio-releases?label=latest%20version&color=c2ff2d&labelColor=1a1b20)](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/latest)
-[![Private beta](https://img.shields.io/badge/status-private%20beta-ffb020?labelColor=1a1b20)](#how-to-get-it)
+[![Free licence](https://img.shields.io/badge/licence-free-c2ff2d?labelColor=1a1b20)](#free-licence)
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon-f3f3f4?logo=apple&logoColor=white&labelColor=1a1b20)](#requirements)
 [![Windows](https://img.shields.io/badge/Windows-x64-f3f3f4?logo=windows&logoColor=white&labelColor=1a1b20)](#requirements)
 [![Linux](https://img.shields.io/badge/Linux-x64-f3f3f4?logo=linux&logoColor=white&labelColor=1a1b20)](#requirements)
-[![Discord](https://img.shields.io/badge/Discord-ask%20for%20the%20beta-5865F2?logo=discord&logoColor=white)](https://discord.gg/FzhXZtPhC8)
+[![Discord](https://img.shields.io/badge/Discord-help-5865F2?logo=discord&logoColor=white)](https://discord.gg/FzhXZtPhC8)
 [![Website](https://img.shields.io/badge/website-motohub.techub.eu-f3f3f4?labelColor=1a1b20)](https://motohub.techub.eu)
 
 <img src="media/70-window-overview.webp" alt="MOTO-HUB Studio with a dashboard open in the editor" width="900">
@@ -20,8 +20,9 @@
 </div>
 
 > [!IMPORTANT]
-> **MOTO-HUB Studio is in private beta and is not publicly available yet.** This repository holds its
-> release notes only: there is nothing to download here. To try it, **[ask for the beta on Discord](https://discord.gg/FzhXZtPhC8)**.
+> **MOTO-HUB Studio is free, but it needs a free licence key to open.** Download it from the
+> **[latest release](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/latest)**, open it, and press
+> **Get a free licence**: the [MOTO-HUB website](https://motohub.techub.eu/studio/licence/) gives you a key for your computer in a minute.
 
 ---
 
@@ -129,11 +130,44 @@ diagnostics file to attach when something goes wrong, and a complete user manual
 
 ## How to get it
 
-**MOTO-HUB Studio is in private beta.** It is not publicly available yet, and there are no download
-links in this repository.
+### Download
 
-To try it, **join the [MOTO-HUB Discord](https://discord.gg/FzhXZtPhC8) and ask for the beta.** Testers
-receive it there, and from then on Studio keeps itself up to date.
+Open the **[latest release](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/latest)** and download the
+package for your computer:
+
+| | |
+|---|---|
+| **macOS** | `MOTO-HUB-Studio-<version>-macos-arm64.dmg` |
+| **Windows** | `MOTO-HUB-Studio-<version>-windows-x64.zip` |
+| **Linux** | `MOTO-HUB-Studio-<version>-linux-x64.tar.gz` |
+
+The `.mhs` files in the release are Studio's modules. You do not need to download them: Studio fetches
+the ones you switch on by itself.
+
+### First start
+
+Studio is not signed by Apple or Microsoft, so the first start needs one extra step.
+
+- **macOS:** open the DMG and drag MOTO-HUB Studio into Applications. Open it once: macOS refuses it.
+  Go to **System Settings ▸ Privacy & Security**, scroll down and press **Open Anyway** next to
+  MOTO-HUB Studio. From then on it opens normally.
+- **Windows:** before you unzip, right-click the zip, choose **Properties**, tick **Unblock** and press OK.
+  Unzip it anywhere you like and double-click `MOTO-HUB Studio.vbs`. Nothing is installed.
+- **Linux:** unpack the folder anywhere you like and run `MOTO-HUB Studio` inside it.
+
+After the first start Studio keeps itself up to date: you never download it again.
+
+### Free licence
+
+The first time it opens, Studio asks for a licence key made for your computer. The key is free.
+
+1. Press **Get a free licence**. The [MOTO-HUB website](https://motohub.techub.eu/studio/licence/) opens with your
+   computer's code already filled in.
+2. Fill in the form. The website gives you your key (`MHS-…`).
+3. Paste the key into Studio and press **Activate**.
+
+A key works on one computer. Studio checks it online when you activate it and at least once every 30
+days. Using Studio means accepting its **[End User Licence Agreement](EULA.md)**.
 
 ## Requirements
 
@@ -148,11 +182,11 @@ receive it there, and from then on Studio keeps itself up to date.
 ## Release notes
 
 Every version, from the first one, is on the **[Releases](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases)**
-page. The releases carry notes only, no packages.
+page.
 
 ## Related
 
 - **[MOTO-HUB](https://motohub.techub.eu)**: the website, with the phone app and the dashboard gallery.
 - **[MOTO-HUB ADV-SOLO](https://github.com/vincenzobpt/MOTO-HUB-ADV-SOLO-releases)**: the Android app Studio works with.
 - **[MOTO-HUB CORE](https://github.com/vincenzobpt/MOTO-HUB)**: the free, open-source (AGPL-3.0) MOTO-HUB for the motorcycle TFT: pairing with EasyConn / Carbit dashboards, Android Auto, screen mirroring and handlebar buttons, on Android 12 and newer.
-- **[Discord](https://discord.gg/FzhXZtPhC8)**: help, the beta, and the people who ride with MOTO-HUB.
+- **[Discord](https://discord.gg/FzhXZtPhC8)**: help, and the people who ride with MOTO-HUB.
