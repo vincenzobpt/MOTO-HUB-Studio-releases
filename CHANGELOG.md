@@ -2,6 +2,21 @@
 
 MOTO-HUB Studio is free to download from the [Releases](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases) page, with a free licence key from the [MOTO-HUB website](https://motohub.techub.eu/studio/licence/). Each release also carries Studio's modules, which Studio downloads by itself.
 
+## 2.2.0
+
+_Released 16 November 2026._
+
+### ✨ New
+
+- **More detailed Real 3D:** every building on the map, rock and scree from photographed scans, and real asphalt on the route and the streets. (Flyby)
+- **Places map, simpler:** the lists card is as tall as what it shows. The Real 3D mode of the map is gone. (Places)
+
+### 🔧 Fixed
+
+- **Real 3D:** many fixes to bridges, sea, rivers, stadiums, churches and buildings on slopes. (Flyby)
+
+Studio offers the update the next time you open it, or choose Help ▸ Check for updates.
+
 ## 2.1.1
 
 _Released 8 November 2026._
