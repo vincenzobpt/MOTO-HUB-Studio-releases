@@ -2,6 +2,16 @@
 
 MOTO-HUB Studio is free to download from the [Releases](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases) page, with a free licence key from the [MOTO-HUB website](https://motohub.techub.eu/studio/licence/). Each release also carries Studio's modules, which Studio downloads by itself.
 
+## 2.2.1
+
+_Released 16 November 2026._
+
+### 🔧 Fixed
+
+- **Windows:** Studio 2.2.0 closed by itself a few seconds after opening. It opens again.
+
+On Windows, 2.2.0 closes before it can update itself: download the Windows package and unzip it over your Studio folder. On Mac and Linux, Studio offers the update the next time you open it, or choose Help ▸ Check for updates.
+
 ## 2.2.0
 
 _Released 16 November 2026._

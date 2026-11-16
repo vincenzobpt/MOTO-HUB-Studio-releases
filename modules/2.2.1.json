@@ -1,0 +1,45 @@
+{
+    "version": "2.2.1",
+    "modules": {
+        "dashboards": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.2.1/dashboards.mhs",
+            "size": 2212,
+            "sha256": "9b572434b77d48c5710eb02c83e16ec44a9a3af2a3e1dccbbe42296a6e18e763"
+        },
+        "trips": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.2.1/trips.mhs",
+            "size": 647497,
+            "sha256": "1de8fdf0116b853a01f2ed52b23b1952cb26fe550bd363a59fc83f431e3e6a54"
+        },
+        "places": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.2.1/places.mhs",
+            "size": 450578,
+            "sha256": "ab1938749e6cb77990213965bb7e97b5cb85bbb0f440037f976c914f56141f37"
+        },
+        "planner": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.2.1/planner.mhs",
+            "size": 261849,
+            "sha256": "c3c3a76664393669761b4c65ce3ca12ba8dac101bac57dce18e1fb3e509ce913"
+        },
+        "worldpreview": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.2.1/worldpreview.mhs",
+            "size": 459844,
+            "sha256": "45500f11987bd0a7627a3558cab893dc2942c28d9a170757229756b9658b66f6"
+        },
+        "flyby": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.2.1/flyby.mhs",
+            "size": 762669,
+            "sha256": "3aee6708b13eaf5a4ecfa49234371cb303e3709a126f1b68a9d1475c298f555a"
+        },
+        "simulator": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.2.1/simulator.mhs",
+            "size": 199755,
+            "sha256": "2de1e99219b1404d32d954d672efe643ed0b4054e55296a6962f54a8e873b92e"
+        },
+        "android": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.2.1/android.mhs",
+            "size": 302818,
+            "sha256": "72363337a3637f893ba2c1202af722c243428b7e6176adeefa5a20e4d7e7ee3c"
+        }
+    }
+}
