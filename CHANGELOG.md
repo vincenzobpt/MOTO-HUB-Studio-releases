@@ -2,6 +2,21 @@
 
 MOTO-HUB Studio is free to download from the [Releases](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases) page, with a free licence key from the [MOTO-HUB website](https://motohub.techub.eu/studio/licence/). Each release also carries Studio's modules, which Studio downloads by itself.
 
+## 2.3.0
+
+_Released 18 November 2026._
+
+### ✨ New
+
+- **Dash:** a new workspace that builds a touch dashboard from a few choices: theme, layout, dock, widgets, colours, background and cards. The preview shows it as the phone draws it, for bike screens and car head units. (Dash)
+- **Sub dashes:** more pages opened from the dock or from Controls buttons, each with its own layout and dock, or one dock for all of them. (Dash)
+- **Apps and camera in the dash:** a card can show one of your phone's apps, or the Dashcam camera, live inside the dash. (Dash)
+- **Send to phone:** send the dash straight to the paired phone, and keep it in My dashes to change it later. (Dash)
+
+Dash is free with every licence. It needs MOTO-HUB SOLO 0.1.71 or later on the phone; the camera card needs the Dashcam module.
+
+Studio offers the update the next time you open it, or choose Help ▸ Check for updates.
+
 ## 2.2.1
 
 _Released 16 November 2026._
