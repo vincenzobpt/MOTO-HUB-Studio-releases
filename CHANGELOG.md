@@ -2,6 +2,25 @@
 
 MOTO-HUB Studio is free to download from the [Releases](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases) page, with a free licence key from the [MOTO-HUB website](https://motohub.techub.eu/studio/licence/). Each release also carries Studio's modules, which Studio downloads by itself.
 
+## 2.4.0
+
+_Released 19 November 2026._
+
+### ✨ New
+
+- **Apps panel:** design the panel that the dock's Apps button opens: quick settings, your apps and any widget, laid out like a dash. (Dash)
+- **Tap a widget:** choose what happens when you tap a card, from the same list of actions as the dock. (Dash)
+- **More actions:** dock and Controls buttons can now go to the previous track, start or reset the lap timer, switch riding mode, mark a full tank, change the OBD style and move to the previous or next dashboard. (Dash)
+- **Controls buttons** can do anything a dock button does. (Dash)
+- **Bigger docks:** a dock takes as many buttons as fit along its side of the screen. (Dash)
+- **Video guide:** the red Video button in Dash opens the video for the page you are on.
+
+### 🔧 Changed
+
+- The Apps panel no longer has a close button: tap outside it to close it. It is also wider.
+
+Studio offers the update the next time you open it, or choose Help ▸ Check for updates.
+
 ## 2.3.0
 
 _Released 18 November 2026._

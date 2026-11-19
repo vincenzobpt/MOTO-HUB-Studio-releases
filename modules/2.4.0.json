@@ -1,0 +1,50 @@
+{
+    "version": "2.4.0",
+    "modules": {
+        "dashboards": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.4.0/dashboards.mhs",
+            "size": 2215,
+            "sha256": "389b78c7fc287ab0401ffbb13cd62b7e16ad0fa09afbc57004a12c2aec2f2d65"
+        },
+        "looks": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.4.0/looks.mhs",
+            "size": 412872,
+            "sha256": "c0d48a27f0aa66d7baa4a76848ec657887300e82e7c21691583845538d8bff5f"
+        },
+        "trips": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.4.0/trips.mhs",
+            "size": 648837,
+            "sha256": "6fad216569ca9e4335c775f7eb042d8d57de86a68faf5348f173c6333a702edc"
+        },
+        "places": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.4.0/places.mhs",
+            "size": 451313,
+            "sha256": "ee7541060129053db7fe39c2f17865cd81e1b753753149edd9953288af1adb35"
+        },
+        "planner": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.4.0/planner.mhs",
+            "size": 262300,
+            "sha256": "3319f85d837390636068965a021225e9ccff378526259da0fc75e6f7adef97a4"
+        },
+        "worldpreview": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.4.0/worldpreview.mhs",
+            "size": 460462,
+            "sha256": "01558ad5038985600b1646f14760c2abf74d66375bd26fcede3ebca64b9d7b76"
+        },
+        "flyby": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.4.0/flyby.mhs",
+            "size": 763185,
+            "sha256": "9fbe81209521ebbebce2ace2d292f3ef46b7b3de389db37ff97955e3bde9536c"
+        },
+        "simulator": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.4.0/simulator.mhs",
+            "size": 200220,
+            "sha256": "f513b8546958e8f1219e7d37b0a4977a098065db8cb416dfb9fdd3cd9d6a8571"
+        },
+        "android": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.4.0/android.mhs",
+            "size": 303061,
+            "sha256": "4491100f62ab2388a85ff2ebff4bc5698f7c798a8cb2dc898dc52c8b089b16d8"
+        }
+    }
+}
