@@ -2,6 +2,28 @@
 
 MOTO-HUB Studio is free to download from the [Releases](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases) page, with a free licence key from the [MOTO-HUB website](https://motohub.techub.eu/studio/licence/). Each release also carries Studio's modules, which Studio downloads by itself.
 
+## 2.5.0
+
+_Released 20 November 2026._
+
+### ✨ New
+
+- **Community:** browse the dashboards other riders share, the same list as the phone app. Search and filter them, open one in Dash or Dashboards, send it to your phone or save it. (Dash, Dashboards)
+- **Share with the community:** send your dashboard for publication under a nickname of your choice. Each one is checked before it appears in Studio, in the phone app and on the website, and **My submissions** shows where yours stand. (Dash, Dashboards)
+- **Ten new themes,** each with its own layout: four in the colours of BMW, Suzuki, CFMOTO and Ducati, plus Rally, Track day, Neon, Phosphor, Grand Tour and Daylight. (Dash)
+- **37 new widget styles** for music, trip, speed, revs, gear and the engine meters. (Dash)
+- **Open .mhd files** from Finder or Explorer: a dash made in Dash opens in Dash, any other dashboard in Dashboards.
+
+### 🔧 Changed
+
+- The red button at the bottom of Dash is now called **Video help**.
+- Many fixes in Dash widgets and files: readable units, numbers that fit small cards, safer saving, renaming and duplicating.
+- The film buttons in Flyby open the saved film, also on Windows.
+
+Dashboards made in Dash need MOTO-HUB SOLO 0.1.72 or later on the phone.
+
+Studio offers the update the next time you open it, or choose Help ▸ Check for updates.
+
 ## 2.4.0
 
 _Released 19 November 2026._
