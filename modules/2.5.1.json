@@ -1,0 +1,50 @@
+{
+    "version": "2.5.1",
+    "modules": {
+        "dashboards": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.5.1/dashboards.mhs",
+            "size": 2214,
+            "sha256": "25f34a7c35d64cb6f3fd475757a6684dcb6b8d371c79544e15684933d3c3cfe2"
+        },
+        "looks": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.5.1/looks.mhs",
+            "size": 443339,
+            "sha256": "fabba5132bfdfc71b09ebfbed086cc8e541692725f1f11bd7cbfc7f530ac1d44"
+        },
+        "trips": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.5.1/trips.mhs",
+            "size": 648974,
+            "sha256": "103bc4b4ccff12d4cdb594dfbe87398ea4c4defc6cac9f3de6bdd3c81e28e7af"
+        },
+        "places": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.5.1/places.mhs",
+            "size": 451313,
+            "sha256": "958b66a97d6fdb3276b9a236b9fed886dd7ac345c1429252a7aaf0746adfd3fa"
+        },
+        "planner": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.5.1/planner.mhs",
+            "size": 262308,
+            "sha256": "a5cf40dd8f36efca38fd5c21860acab140d18acad933281fdf129f0f1becb192"
+        },
+        "worldpreview": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.5.1/worldpreview.mhs",
+            "size": 472251,
+            "sha256": "608e8b38347f7402545201eda88a3c02380e6bb08f43501847b292701ea928d5"
+        },
+        "flyby": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.5.1/flyby.mhs",
+            "size": 763688,
+            "sha256": "3e70edc0c0b76c55c3078b7f45393692ffb235e083cf98bbebc19659294a2081"
+        },
+        "simulator": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.5.1/simulator.mhs",
+            "size": 200136,
+            "sha256": "f56a664c2dc29cf4c2f65b4db7ba66efcddb379f028173cbdd89d17775f01565"
+        },
+        "android": {
+            "url": "https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/download/v2.5.1/android.mhs",
+            "size": 302987,
+            "sha256": "68571893de4ee836f6405e660c04b8c0a58f26ec53381d4bd97602b107a06b89"
+        }
+    }
+}

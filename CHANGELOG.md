@@ -2,6 +2,18 @@
 
 MOTO-HUB Studio is free to download from the [Releases](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases) page, with a free licence key from the [MOTO-HUB website](https://motohub.techub.eu/studio/licence/). Each release also carries Studio's modules, which Studio downloads by itself.
 
+## 2.5.1
+
+_Released 20 November 2026._
+
+### 🔧 Fixed
+
+- **Menus and dialogs stay in Studio's window on the Mac:** drop-down lists, tooltips and dialogs open inside the window again, instead of as windows of their own that a screen recording picked up separately.
+- **The update window no longer hides behind Studio** when you click: Help ▸ Check for updates and What's new now stay in front.
+- **World Preview:** its menus still open above the 3D view, and the 3D view steps aside while a Studio menu or dialog covers it.
+
+Studio offers the update the next time you open it, or choose Help ▸ Check for updates.
+
 ## 2.5.0
 
 _Released 20 November 2026._
