@@ -13,6 +13,7 @@
 [![Windows](https://img.shields.io/badge/Windows-x64-f3f3f4?logo=windows&logoColor=white&labelColor=1a1b20)](#requirements)
 [![Linux](https://img.shields.io/badge/Linux-x64-f3f3f4?logo=linux&logoColor=white&labelColor=1a1b20)](#requirements)
 [![Discord](https://img.shields.io/badge/Discord-help-5865F2?logo=discord&logoColor=white)](https://discord.gg/FzhXZtPhC8)
+[![Facebook](https://img.shields.io/badge/Facebook-follow%20the%20page-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/motohub.techub.eu/)
 [![Website](https://img.shields.io/badge/website-motohub.techub.eu-f3f3f4?labelColor=1a1b20)](https://motohub.techub.eu)
 
 <img src="media/70-window-overview.webp" alt="MOTO-HUB Studio with a dashboard open in the editor" width="900">
