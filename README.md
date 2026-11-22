@@ -28,8 +28,9 @@
 
 ## Scanned for malware
 
-Every Studio package is scanned by [VirusTotal](https://www.virustotal.com), which checks it with more
-than 50 antivirus engines. For **Studio 2.5.1** no engine flagged anything. Open the reports yourself:
+<!-- virustotal:start -->
+Every Studio package is scanned by [VirusTotal](https://www.virustotal.com), which checks it with dozens of
+antivirus engines. For **Studio 2.5.1** no engine flagged anything. Open the reports yourself:
 
 | Package | VirusTotal report | SHA-256 |
 |---|---|---|
@@ -38,6 +39,7 @@ than 50 antivirus engines. For **Studio 2.5.1** no engine flagged anything. Open
 | 🐧 Linux | [**0/52 detections**](https://www.virustotal.com/gui/file/ddb92d44041975432d5b8beb1276f57868f293db65b9f480ac0747d5b85d45f1) | `ddb92d44041975432d5b8beb1276f57868f293db65b9f480ac0747d5b85d45f1` |
 
 The SHA-256 tells you that your download is the same file VirusTotal scanned: it must match the one on the report page.
+<!-- virustotal:end -->
 
 ---
 
