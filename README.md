@@ -8,6 +8,7 @@
 **Design dashboards for your motorcycle's TFT, study every ride you have recorded, and test it all on a simulated bike before you ride.**
 
 [![Latest version](https://img.shields.io/github/v/release/vincenzobpt/MOTO-HUB-Studio-releases?label=latest%20version&color=c2ff2d&labelColor=1a1b20)](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/latest)
+[![VirusTotal: 0 detections](https://img.shields.io/badge/VirusTotal-0%20detections-c2ff2d?logo=virustotal&logoColor=white&labelColor=1a1b20)](#scanned-for-malware)
 [![Free licence](https://img.shields.io/badge/licence-free-c2ff2d?labelColor=1a1b20)](#free-licence)
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon-f3f3f4?logo=apple&logoColor=white&labelColor=1a1b20)](#requirements)
 [![Windows](https://img.shields.io/badge/Windows-x64-f3f3f4?logo=windows&logoColor=white&labelColor=1a1b20)](#requirements)
@@ -24,6 +25,19 @@
 > **MOTO-HUB Studio is free, but it needs a free licence key to open.** Download it from the
 > **[latest release](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/latest)**, open it, and press
 > **Get a free licence**: the [MOTO-HUB website](https://motohub.techub.eu/studio/licence/) gives you a key for your computer in a minute.
+
+## Scanned for malware
+
+Every Studio package is scanned by [VirusTotal](https://www.virustotal.com), which checks it with more
+than 50 antivirus engines. For **Studio 2.5.1** no engine flagged anything. Open the reports yourself:
+
+| Package | VirusTotal report | SHA-256 |
+|---|---|---|
+| 🍎 macOS | [**0/56 detections**](https://www.virustotal.com/gui/file/30dfbc3093e8420e70d843663fbda5fa38534a516ff8194cac5808e81ccbb8fa) | `30dfbc3093e8420e70d843663fbda5fa38534a516ff8194cac5808e81ccbb8fa` |
+| 🪟 Windows | [**0/55 detections**](https://www.virustotal.com/gui/file/5cc15f7534d5b919ea9c69e0fa7c7ae8ce18f491c7b631a0ce100b2920f94fd5) | `5cc15f7534d5b919ea9c69e0fa7c7ae8ce18f491c7b631a0ce100b2920f94fd5` |
+| 🐧 Linux | [**0/52 detections**](https://www.virustotal.com/gui/file/ddb92d44041975432d5b8beb1276f57868f293db65b9f480ac0747d5b85d45f1) | `ddb92d44041975432d5b8beb1276f57868f293db65b9f480ac0747d5b85d45f1` |
+
+The SHA-256 tells you that your download is the same file VirusTotal scanned: it must match the one on the report page.
 
 ---
 
