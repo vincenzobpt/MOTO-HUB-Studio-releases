@@ -2,6 +2,26 @@
 
 MOTO-HUB Studio is free to download from the [Releases](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases) page, with a free licence key from the [MOTO-HUB website](https://motohub.techub.eu/studio/licence/). Each release also carries Studio's modules, which Studio downloads by itself.
 
+## 2.6.0
+
+_Released 23 November 2026._
+
+### ✨ New
+
+- **Pick your exact screen:** a new screen picker shows the real outline of each TFT, round ones included (like the CL-C450), or takes a custom size. The preview, Layout and Apps panel pages are drawn for the screen you pick, and on the bike your dash fills that exact screen, with no empty bars. (Dash)
+- **Photo of your TFT:** put a photo of the real dashboard over the preview, line it up and set how see-through it is, to check how your dash will look on the bike. It stays in Studio and is never saved in the file. (Dash)
+- **Free positioning:** place and size cards and docks by hand on the Layout page, even partly off the screen. They keep their place on every screen size. (Dash)
+- **Hide the dock** on a single dash, the shared dock included. (Dash)
+
+### 🔧 Changed
+
+- **My dashes** is now a grid that scrolls down, instead of one long row. (Dash)
+- A rider panel too small for its widget no longer leaves a button that does nothing. (Dash)
+
+Dashes laid out for the exact screen need MOTO-HUB SOLO 0.1.73 or later on the phone.
+
+Studio offers the update the next time you open it, or choose Help ▸ Check for updates.
+
 ## 2.5.1
 
 _Released 20 November 2026._
