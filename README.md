@@ -154,9 +154,9 @@ package for your computer:
 
 | | |
 |---|---|
-| **macOS** | `MOTO-HUB-Studio-<version>-macos-arm64.dmg` |
-| **Windows** | `MOTO-HUB-Studio-<version>-windows-x64.zip` |
-| **Linux** | `MOTO-HUB-Studio-<version>-linux-x64.tar.gz` |
+| **macOS** | `MOTO-HUB-Studio-macos-arm64.dmg` |
+| **Windows** | `MOTO-HUB-Studio-windows-x64.zip` |
+| **Linux** | `MOTO-HUB-Studio-linux-x64.tar.gz` |
 
 The `.mhs` files in the release are Studio's modules. You do not need to download them: Studio fetches
 the ones you switch on by itself.
