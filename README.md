@@ -30,13 +30,13 @@
 
 <!-- virustotal:start -->
 Every Studio package is scanned by [VirusTotal](https://www.virustotal.com), which checks it with dozens of
-antivirus engines. For **Studio 2.5.1** no engine flagged anything. Open the reports yourself:
+antivirus engines. For **Studio 2.6.0** no engine flagged anything. Open the reports yourself:
 
 | Package | VirusTotal report | SHA-256 |
 |---|---|---|
-| 🍎 macOS | [**0/56 detections**](https://www.virustotal.com/gui/file/30dfbc3093e8420e70d843663fbda5fa38534a516ff8194cac5808e81ccbb8fa) | `30dfbc3093e8420e70d843663fbda5fa38534a516ff8194cac5808e81ccbb8fa` |
-| 🪟 Windows | [**0/55 detections**](https://www.virustotal.com/gui/file/5cc15f7534d5b919ea9c69e0fa7c7ae8ce18f491c7b631a0ce100b2920f94fd5) | `5cc15f7534d5b919ea9c69e0fa7c7ae8ce18f491c7b631a0ce100b2920f94fd5` |
-| 🐧 Linux | [**0/52 detections**](https://www.virustotal.com/gui/file/ddb92d44041975432d5b8beb1276f57868f293db65b9f480ac0747d5b85d45f1) | `ddb92d44041975432d5b8beb1276f57868f293db65b9f480ac0747d5b85d45f1` |
+| 🍎 macOS | [**0/53 detections**](https://www.virustotal.com/gui/file/b77611c4eeba28417c6e4248927b51362d64c1df159da3b6cc4fc8298efef97f) | `b77611c4eeba28417c6e4248927b51362d64c1df159da3b6cc4fc8298efef97f` |
+| 🪟 Windows | [**0/52 detections**](https://www.virustotal.com/gui/file/1a42e34aa8eec7a3c6409688182c991441e8a272d50c5d0c247fb264e10038d5) | `1a42e34aa8eec7a3c6409688182c991441e8a272d50c5d0c247fb264e10038d5` |
+| 🐧 Linux | [**0/52 detections**](https://www.virustotal.com/gui/file/9d318817aeda06748648ef0f4daea35d875a7d457b5e0b9651bb00a6891dc62d) | `9d318817aeda06748648ef0f4daea35d875a7d457b5e0b9651bb00a6891dc62d` |
 
 The SHA-256 tells you that your download is the same file VirusTotal scanned: it must match the one on the report page.
 <!-- virustotal:end -->
