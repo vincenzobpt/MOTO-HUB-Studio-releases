@@ -2,6 +2,22 @@
 
 MOTO-HUB Studio is free to download from the [Releases](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases) page, with a free licence key from the [MOTO-HUB website](https://motohub.techub.eu/studio/licence/). Each release also carries Studio's modules, which Studio downloads by itself.
 
+## 2.7.0
+
+_Released 24 November 2026._
+
+### ✨ New
+
+- **A Paddock card for your dash:** show your group ride on a dash. It lists the room, the other riders with their distance, speed and whether they are ahead or behind, and the latest messages, with one-tap buttons for quick messages (Stop, Fuel, Help…). It is in the Cards list with its own help page. (Dash)
+
+### 🔧 Fixed
+
+- **Big dashes with several pages** reach the phone again. Send to phone used to say they were too big. If the phone still refuses a dash, Studio now shows the reason in full. (Dash)
+
+The Paddock card needs MOTO-HUB SOLO 0.1.76 or later and the Paddock module on the phone.
+
+Studio offers the update the next time you open it, or choose Help ▸ Check for updates.
+
 ## 2.6.0
 
 _Released 23 November 2026._
