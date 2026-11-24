@@ -8,7 +8,7 @@
 **Design dashboards for your motorcycle's TFT, study every ride you have recorded, and test it all on a simulated bike before you ride.**
 
 [![Latest version](https://img.shields.io/github/v/release/vincenzobpt/MOTO-HUB-Studio-releases?label=latest%20version&color=c2ff2d&labelColor=1a1b20)](https://github.com/vincenzobpt/MOTO-HUB-Studio-releases/releases/latest)
-[![VirusTotal: 0 detections](https://img.shields.io/badge/VirusTotal-0%20detections-c2ff2d?logo=virustotal&logoColor=white&labelColor=1a1b20)](#scanned-for-malware)
+[![VirusTotal: scanned](https://img.shields.io/badge/VirusTotal-scanned-c2ff2d?logo=virustotal&logoColor=white&labelColor=1a1b20)](#scanned-for-malware)
 [![Free licence](https://img.shields.io/badge/licence-free-c2ff2d?labelColor=1a1b20)](#free-licence)
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon-f3f3f4?logo=apple&logoColor=white&labelColor=1a1b20)](#requirements)
 [![Windows](https://img.shields.io/badge/Windows-x64-f3f3f4?logo=windows&logoColor=white&labelColor=1a1b20)](#requirements)
@@ -30,13 +30,13 @@
 
 <!-- virustotal:start -->
 Every Studio package is scanned by [VirusTotal](https://www.virustotal.com), which checks it with dozens of
-antivirus engines. For **Studio 2.6.0** no engine flagged anything. Open the reports yourself:
+antivirus engines. For **Studio 2.7.0**, 1 of 56 engines flagged the macOS package: Microsoft's machine-learning heuristic reports it as `Trojan:Script/Wacatac.B!ml`. The other 55 engines found nothing, and the Windows and Linux packages are clean. We believe it is a false positive and have not been able to confirm it yet. Open the reports yourself:
 
 | Package | VirusTotal report | SHA-256 |
 |---|---|---|
-| 🍎 macOS | [**0/53 detections**](https://www.virustotal.com/gui/file/b77611c4eeba28417c6e4248927b51362d64c1df159da3b6cc4fc8298efef97f) | `b77611c4eeba28417c6e4248927b51362d64c1df159da3b6cc4fc8298efef97f` |
-| 🪟 Windows | [**0/52 detections**](https://www.virustotal.com/gui/file/1a42e34aa8eec7a3c6409688182c991441e8a272d50c5d0c247fb264e10038d5) | `1a42e34aa8eec7a3c6409688182c991441e8a272d50c5d0c247fb264e10038d5` |
-| 🐧 Linux | [**0/52 detections**](https://www.virustotal.com/gui/file/9d318817aeda06748648ef0f4daea35d875a7d457b5e0b9651bb00a6891dc62d) | `9d318817aeda06748648ef0f4daea35d875a7d457b5e0b9651bb00a6891dc62d` |
+| 🍎 macOS | [**1/56 detections**](https://www.virustotal.com/gui/file/dbe496952792eadf372724ec6856d0c037889e45fb97e88e32cf26d5cc7ba519) | `dbe496952792eadf372724ec6856d0c037889e45fb97e88e32cf26d5cc7ba519` |
+| 🪟 Windows | [**0/52 detections**](https://www.virustotal.com/gui/file/115797ddb636c4f2c5415f319b345d099f407db26134446678d5b0221cf19888) | `115797ddb636c4f2c5415f319b345d099f407db26134446678d5b0221cf19888` |
+| 🐧 Linux | [**0/52 detections**](https://www.virustotal.com/gui/file/fbb5d6e99bebc644aac78ba5737f2f80cb5685f7bdbc94f18b8723f4292da5c3) | `fbb5d6e99bebc644aac78ba5737f2f80cb5685f7bdbc94f18b8723f4292da5c3` |
 
 The SHA-256 tells you that your download is the same file VirusTotal scanned: it must match the one on the report page.
 <!-- virustotal:end -->
